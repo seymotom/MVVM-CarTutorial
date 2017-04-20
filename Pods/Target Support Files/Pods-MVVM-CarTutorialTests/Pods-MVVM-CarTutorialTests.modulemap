@@ -1,0 +1,6 @@
+framework module Pods_MVVM_CarTutorialTests {
+  umbrella header "Pods-MVVM-CarTutorialTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
